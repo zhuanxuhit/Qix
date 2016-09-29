@@ -1,12 +1,6 @@
+一些学习资料的记录
 
 
-##About Me
-
-WeiBo:[@廖君_Jun](http://weibo.com/ty4z2008)
-
-Twitter:[@廖君](https://twitter.com/ty4z2008)
-
-E-Mail:ty4z2008@gmail.com
 
 
 **NOTE** 
